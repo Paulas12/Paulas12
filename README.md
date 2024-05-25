@@ -1,4 +1,4 @@
-<h1 align="center">Backend Developer</h1>
+<h1 align="center">Developer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulas12&label=Profile%20views&color=0e75b6&style=flat" alt="paulas12" /> </p>
 
