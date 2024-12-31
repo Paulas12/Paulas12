@@ -1,12 +1,14 @@
 <h1 align="center">Hola 👋, soy Paula</h1>
 <h3 align="center">Desarrolladora apasionada por el Backend y las Bases de Datos. Actualmente explorando en el Análisis de Datos y la Inteligencia Artificial.</h3>
 
-<h3 align="left">Conéctate conmigo: paulamicaelaschuppe@gmail.com</h3>
-<p align="left">
+<h3 align="centert">Conéctate conmigo: paulamicaelaschuppe@gmail.com</h3>
+<p align="center">
 </p>
 
-<h3 align="left center">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<h3 align="center">Idiomas y herramientas:</h3>
+<p align="center"> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
